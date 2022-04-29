@@ -1,6 +1,6 @@
-#PROJE-OTOPARK-OTOMASYONU
-#OTOPARK OTOMASYONU RAPORU
-##MOTİVASYONUMUZ  NEDİR?
+# PROJE-OTOPARK-OTOMASYONU
+# OTOPARK OTOMASYONU RAPORU
+## MOTİVASYONUMUZ  NEDİR?
 Oluşturacağımız projede bizi motive eden kısım öncelikle kendimizce bir proje geliştirmiş olup bir çok insana katkıda bulunmaktır.Bu projenin bir Bilgisayar Mühendisi adayı olarak bizi teknolojik ve düşünce yapısı açısından gelişimimize destek sağlayacağını düşünüyoruz.
 ##Daha önce bu tip bir projede neler kullanılmış? 
 Otomasyon oluumunda genellikle piyasada kullanılan programlama dilleri Java ve C# olarak görülmektedir.Bunun yanı sıra veritabanı sistemleri de yardıımcı öğeler olarak karşımıza çıkmaktadır.En yaygın veritabanı yönetim sistemleri ise MSSQL ve MYSQL dir.
