@@ -3,18 +3,18 @@
 ## MOTİVASYONUMUZ  NEDİR?
 Oluşturacağımız projede bizi motive eden kısım öncelikle kendimizce bir proje geliştirmiş olup bir çok insana katkıda bulunmaktır.Bu projenin bir Bilgisayar Mühendisi adayı olarak bizi teknolojik ve düşünce yapısı açısından gelişimimize destek sağlayacağını düşünüyoruz.
 ## Daha önce bu tip bir projede neler kullanılmış? 
-Otomasyon oluumunda genellikle piyasada kullanılan programlama dilleri Java ve C# olarak görülmektedir.Bunun yanı sıra veritabanı sistemleri de yardıımcı öğeler olarak karşımıza çıkmaktadır.En yaygın veritabanı yönetim sistemleri ise MSSQL ve MYSQL dir.
+Daha önce bir çok site üzerinden belli başlı sitelere yönlendirme yapılıyordu ama bu siteler belli başlı sitelerdir.
 ## Ne fark yaratacağız? ve Hangi kısımları iyileştireceğiz? 
-Daha önceki otopark otomasyonlarının analizi ile birilikte elde ettimiz sonuç bu otomasyonların yetersiz,güvensiz,kullanım zorluğuna ve kafa karşıklığına yol açıyor olmasıdır.Projemize ekstaradan olumsuz bir durum ile karşılaşma riskini ortadan kaldırmak için belli başlı araçların girişinin engellenmesi ve otoparka yetkisiz girişi önlemek için her araç sahibinin giriş bilgileri ile oluşturacağı bir admin panali oluşturmaktayız.
+Bizim projemizde kullanıcılarımız bütün sosyal medya linklerine tek tık ile görsel ve efektif erişilebiliecek.
 # ANALİZ 
 ## İhtiyaç Analizi
-Projemizde kullanıcılarımıza vermiş olacağımız admin paneli ile birlikte kullanıcılarımızın güvenliğini ön planda tutarak otoparktaki düzenin oluşmasını sağlamak.
+Projemizde kullanıcılarımıza vermiş link ile birlikte kullanıcılarımızın rahatlığı ön planda tutarak istedikleri sosyal medya veya bir çok platforma güvenli bir site üzerinden erişim sağlatabilmek.
 ## İçerik Analizi 
-Otomasyonmuzda kullanıcı ve yönetici olmak üzere iki panel bulunacaktır.Kullanıcıların sınırlı yetkileri bulunurken yöneticilerin tam yetkisi olacaktır.Ayrıca acil durumlarda güvenlik ekibimizin ulaşabileceği kullanıcılara ait bir alt panelde sunmaktayız.
+Sitemizde link ve görseller ile yönlendirmeli sayfalar ile kullanıcılarımıza güvenli şekilde ağırlıklı olarak sosyal medya platformlarına girişleri ve yönlendirilmeleri konusunda yardımcı olucak web sitesi tasarımı.
 ## Kullanıcı Analizi
-Kullanıcılarımız araç sahipleri,otopark görevlileri ve  otopark sahiperi ile birlikte şirketimizdir.
+Kullanıcılarımız internet üzerinden erişim sağlayabilecek herkese açık bir site.
 ## Araç Analizi 
-Otomasyonumuzu Java programlama dili, MYSQL veritabanı sistemi ile tasarlıyoruz.
+Web sitemizi Html,Css,Php kodları ile tasarlıyoruz.
 # Kullanılacak Kaynaklar 
 • Bilgisayar
 • Php,Css,Html
