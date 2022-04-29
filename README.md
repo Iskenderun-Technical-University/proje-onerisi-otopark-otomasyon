@@ -1,5 +1,5 @@
 # PROJE-WEB SAYFASI TASARIM
-# OTOPARK OTOMASYONU RAPORU
+# WEB SAYFASI TASARIM RAPORU
 ## MOTİVASYONUMUZ  NEDİR?
 Oluşturacağımız projede bizi motive eden kısım öncelikle kendimizce bir proje geliştirmiş olup bir çok insana katkıda bulunmaktır.Bu projenin bir Bilgisayar Mühendisi adayı olarak bizi teknolojik ve düşünce yapısı açısından gelişimimize destek sağlayacağını düşünüyoruz.
 ## Daha önce bu tip bir projede neler kullanılmış? 
@@ -17,7 +17,7 @@ Kullanıcılarımız araç sahipleri,otopark görevlileri ve  otopark sahiperi i
 Otomasyonumuzu Java programlama dili, MYSQL veritabanı sistemi ile tasarlıyoruz.
 # Kullanılacak Kaynaklar 
 • Bilgisayar
-• Java
-• Microsoft MYSQL
+• Php,Css,Html
+• Xampp
 • Kullanıcı analizleri
 
